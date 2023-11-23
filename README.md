@@ -13,3 +13,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devrik99&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="devrik99's Stats">
 </p>
+
+<p align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=devrik99&theme=onedark)](https://github.com/devrik99/github-profile-trophy)
+</p>
